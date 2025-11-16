@@ -1,3 +1,8 @@
+⭐ Author
+Vi Vũ Trí Đức (Ducy1516)
+USTH – DS-B3
+Machine Learning / Optimization
+
 # ⚽ DLS Lineup Optimization (4-3-3)  
 Optimize your Dream League Soccer lineup using Linear Programming.
 
